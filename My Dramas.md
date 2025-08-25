@@ -3,8 +3,6 @@
 
 ## Dramas Watched
 
-*The Best to the Worst.*
-
 | No | Drama name                         | Downloaded |
 |:--:|:----------------------------------:|:----------:|
 |1.  | My Demon.                          | Yes        |
@@ -28,4 +26,4 @@
 |19. | Love o2o. (C)                      | No         |
 |20. | Nevertheless.                      | No         |
 |21. | Lesson In Love (C)                 | Yes        |
-|    |                                    |            | 
+|22. | I Am Not A Robot.                  | No         | 
