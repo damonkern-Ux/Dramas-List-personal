@@ -27,3 +27,4 @@
 |20. | Nevertheless.                      | No         |
 |21. | Lesson In Love (C)                 | Yes        |
 |22. | I Am Not A Robot.                  | No         | 
+|23. | King The Land.                     | No         | 
