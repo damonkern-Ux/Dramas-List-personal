@@ -32,3 +32,4 @@ Oldest To Newest.
 | 23. | King The Land.                     | No         | 
 | 24. | What's Wrong With Secretary Kim.   | No         | 
 | 25. | Start Up.                          | No         | 
+| 26. | Suspicious Partner.                | No         |
