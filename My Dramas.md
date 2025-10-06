@@ -34,3 +34,4 @@ Oldest To Newest.
 | 25. | Start Up.                          | No         | 
 | 26. | Suspicious Partner.                | No         |
 | 27. | True Beauty.                       | No         |
+| 28. | Mr. Queen.                         | No         |
