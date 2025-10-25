@@ -42,3 +42,4 @@ Oldest To Newest.
 | 33. | W.                                 | No         |
 | 34. | My First First Love 1              | No         |
 | 35. | My First First Love 2              | No         |
+| 36. | Bon Appetit, Your Majesty.         | No         |
